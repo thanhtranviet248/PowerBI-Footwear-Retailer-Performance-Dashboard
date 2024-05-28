@@ -12,7 +12,7 @@ Link to the dashboard: https://app.powerbi.com/view?r=eyJrIjoiNjVhNTMxMjAtNTVlYy
 
     1.1 - Cloud Storage (data warehouse):
 
-    - Master data: DistributionChannel.csv (distribution channel information), Master_Calendar.csv (timeframe information), Product.arvo (product features information), SLOC (inventory features information)
+    - Master data: DistributionChannel.csv (distribution channel information), Master_Calendar.csv (timeframe information), Product.arvo (product features information)
     - Transactional data: Sales.arvo (sales data), Inventory.arvo (inventory data)
 
     1.2 - BigQuery (ETL):
