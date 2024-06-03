@@ -3,7 +3,7 @@
 
 This project is a full process from getting the raw data to the cleaning, processing and visualizing steps in order to bring the general performance and the detail analysis views of sales and inventory to decision makers.
 
-Link to the dashboard: https://app.powerbi.com/view?r=eyJrIjoiOGQzM2NkYTYtOGJlNS00YTU0LTk4YjMtOTg3ZTRjYTEyM2NmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+Link to the dashboard: https://app.powerbi.com/view?r=eyJrIjoiMGM5ZTE3MDYtY2Q2ZS00OGQ4LWEwMjgtNWIxNTVhNTcwM2RhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## Tools used
 
