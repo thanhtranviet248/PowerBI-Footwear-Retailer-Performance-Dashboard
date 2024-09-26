@@ -1,24 +1,16 @@
 
 # Footwear Retailer Sales & Inventory Dashboard
 
-This project is a full process from getting the raw data to the cleaning, processing and visualizing steps in order to bring the general performance and the detail analysis views of sales and inventory to decision makers.
 
-Link to the dashboard: https://app.powerbi.com/view?r=eyJrIjoiMGM5ZTE3MDYtY2Q2ZS00OGQ4LWEwMjgtNWIxNTVhNTcwM2RhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+This dashboard is constructed for tracking performance of a footwear retailer, including sales performance, growth rate, inventory status, etc.
 
-## Tools used
 
-1 - Google Cloud
+There are 6 pages in the dashboard:
+* Page 0 - Overview: Overview of sales and inventory performance
+* Page 1 - Distribution: Performance of the retail chain on the distribution perspective, including 4 views: Region view, Channel view, B2B/B2C view, Trade Term view
+* Page 2 - Store: Detail store performance detail analysis
+* Page 3 - Product: Performance of the retail chain on the product attribute perspective, including 4 views: Brand view, Colour Group view, Age Group view, Launch Season view
+* Page 4 - Best sellers: Detail performance of the best selling stores and SKUs
+* Page 5 - Inventory: Detail inventory performance
 
-    1.1 - Cloud Storage (data warehouse):
-
-    - Master data: DistributionChannel.csv (distribution channel information), Master_Calendar.csv (timeframe information), Product.arvo (product features information)
-    - Transactional data: Sales.arvo (sales data), Inventory.arvo (inventory data)
-
-    1.2 - BigQuery (ETL):
-
-    - The data tables are retrieved into BigQuery for initial data cleaning (check N/A, null, missing, etc.)
-
-2 - Power Query and Power BI
-
-    - After the inital cleaning step, the data are loaded into Power Query to recheck if any errors and missing points still exist
-    - Finally the data model is setup between tables and dashboard is built
+[Link to data and dashboard files](https://drive.google.com/drive/folders/1Sg2WM27fsF2E20uJYUSaWYAKeGrGKY7q?usp=sharing)
